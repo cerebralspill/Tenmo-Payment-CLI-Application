@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/capstone/tenmo-client/m02-capstone-client.iml" filepath="$PROJECT_DIR$/capstone/tenmo-client/m02-capstone-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capstone/tenmo-server/m02-capstone-server.iml" filepath="$PROJECT_DIR$/capstone/tenmo-server/m02-capstone-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mod-2-capstone-team-1.iml" filepath="$PROJECT_DIR$/.idea/mod-2-capstone-team-1.iml" />
+    </modules>
+  </component>
+</project>
